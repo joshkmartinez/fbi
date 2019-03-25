@@ -1,0 +1,9 @@
+{
+  "name": "FBI Open Up",
+  "alias": ["FBIOpenUp", "fboi", "ThisIsTheFBI"],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
